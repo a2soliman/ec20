@@ -1,7 +1,7 @@
 # ec20
 
-**Processing digital elevation data for deep learning models using Keras Spatial**
-**Aiman Soliman and Jeffrey Terstrie**
+**Processing digital elevation data for deep learning models using Keras Spatial**<br/>
+**Aiman Soliman and Jeffrey Terstriep**
                                                                 
 This Jupyter notebook demonstrates the use of Keras Spatial package to prepare geospatial data for Tensorflow models. We illustrate the different functionality of Keras Spatial using the case study of pre-processing Digital Elevation data.
 
